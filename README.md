@@ -2,7 +2,7 @@
 A collection of take home data science challenges practice.
 
 ## Note:
-This repository is only for self-learning purpose. 
+This repository is only for self-learning purpose. Take-home challenges are usually fairly open ended. For me here, I am not going to make the solution over complicated. Only focus on a few things and make sure the overall message is clear and consistent and also show my strengths like visualization, machine learning, product ideas, or business insights. 
 
 The original resource of this book is: https://datamasked.com/ 
 
