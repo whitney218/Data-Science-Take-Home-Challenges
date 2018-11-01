@@ -1,9 +1,12 @@
 # Data-Science-Take-Home-Challenges
 A collection of take home data science challenges practice.
 
-## This repository is only for self-learning purpose. 
+## Note:
+This repository is only for self-learning purpose. 
+
 The original resource of this book is: https://datamasked.com/ 
-There are the contents of this repository:
+
+### There are the contents of this repository:
 1.Conversion Rate
 2.Spanish Translation A/B Test
 3.Employee Retention
@@ -25,7 +28,7 @@ There are the contents of this repository:
 19.Subscription Retention Rate
 20.Ads Analysis
 
-Other useful resource: https://github.com/eliekawerk/DS-Take-Home
+#### Other useful resource: https://github.com/eliekawerk/DS-Take-Home
 
 If you have any questions or want to discuss with me, you add my LinkedIn https://www.linkedin.com/in/bingqi-zhu/
 Thanks!
